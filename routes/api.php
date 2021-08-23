@@ -4,10 +4,10 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\StatusController;
-use \App\Http\Controllers\DishesController;
-use \App\Http\Controllers\ClientsController;
-use \App\Http\Controllers\BoardsController;
-use \App\Http\Controllers\OrdersController;
+use App\Http\Controllers\DishesController;
+use App\Http\Controllers\ClientsController;
+use App\Http\Controllers\BoardsController;
+use App\Http\Controllers\OrdersController;
 
 /*
 |--------------------------------------------------------------------------
